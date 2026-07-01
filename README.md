@@ -1,6 +1,6 @@
-# Member Only - WordPress Membership Plugin
+# WordPress Membership Plugin
 
-A custom WordPress membership plugin that allows users to register as **Member Only** users, upload government identification, automatically log in after registration, and access a dedicated member dashboard with WooCommerce integration.
+A custom WordPress membership plugin that allows users to register as **Member ** users, upload government identification, automatically log in after registration, and access a dedicated member dashboard with WooCommerce integration.
 
 ## Features
 
